@@ -1,0 +1,16 @@
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.Form1.resources
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.GenerateResource.cache
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfoInputs.cache
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfo.vb
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.exe
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.deps.json
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.runtimeconfig.json
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.dll
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.pdb
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.dll
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\refint\POSTTEST_1.dll
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.pdb
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.genruntimeconfig.cache
+C:\Users\MyBook Hype\source\repos\kysh\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\net10.0-windows\ref\POSTTEST_1.dll
